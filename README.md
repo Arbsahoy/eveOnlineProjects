@@ -8,3 +8,6 @@ I was running similar items in Excel but the time that it took was quite signifi
 This lead to buying a server, learning about Virtual systems (bare metal ESXI), SQL Servers (little), flat file structures, pandas and a whole slew of other things. 
 
 Questions? Comments? Feel free to reach out to me and I'll respond A.S.A.P.!
+
+
+This is a dead project as I do not play Eve anymore, mostly because the server that I was using to run this endevour died and took all the current revisions with it. What is here is what I was able to recover. Have fun!!
